@@ -27,7 +27,7 @@ public class UserService {
 		return userRepository.save(obj);
 	}
 	
-	public void delete(User obj) {
-		userRepository.deleteById(obj.getId());
+	public void delete(Long id) {
+		userRepository.deleteById(id);
 	}
 }
