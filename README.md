@@ -4,7 +4,8 @@ Este projeto de estudo tem como objetivo desenvolver um Web Service REST utiliza
 
 ## Modelo Conceitual
 
-![image](https://user-images.githubusercontent.com/61437530/218335690-8dd613d8-fc59-49cd-83e1-9fb237564040.png)![image](https://user-images.githubusercontent.com/61437530/218335713-246b4f68-2ea6-4247-9be6-93423dbc5311.png)
+![image](https://user-images.githubusercontent.com/61437530/218339191-5254b218-7fd0-4736-b99c-3102c6deb9f6.png)
+
 
 ## Tecnologias
 
